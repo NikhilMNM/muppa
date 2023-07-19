@@ -1902,7 +1902,7 @@ label {
 }
 
 .header-fixed .navbar.affix .navbar-nav > li > a {
-	color: #ffffff;
+	color: #000;
 }
 }
 
@@ -2463,9 +2463,7 @@ li a:hover,
 	margin-bottom: 0;
 }
 
-.feature-left .feature-panel .feature--content {
-	padding-left: 68px;
-}
+
 
 .feature-left .feature-panel {
 	margin-bottom: 0;
@@ -3239,6 +3237,9 @@ li{
 .video-button .video--content {
 	height: 260px;
 }
+}
+.reverserow .row{
+	flex-direction: row-reverse;
 }
 
 /*------------------------------------*\
