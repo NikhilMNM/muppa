@@ -1070,8 +1070,9 @@ section {
 \*------------------------------------*/
 .bg-theme {
 	/* background-color: #0f4c89  !important; */
-	background: url(/assets/images/background/xd.jpg);
+	background: url(../images/background/xd.jpg);
 	background-size: 100% 100%;
+	
 }
 
 .bg-gray {
