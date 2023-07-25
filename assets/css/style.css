@@ -1074,6 +1074,37 @@ section {
 	background-size: 100% 100%;
 	
 }
+.icon-cta{
+	
+    position: fixed;
+    right: 10px;
+    top: 41%;
+	z-index: 999;
+}
+.icon-cta a {
+	line-break: auto;
+}
+.bi-whatsapp{
+	color: #fff;
+	font-size: 24px;
+	background-color: #00A884;
+	padding: 3px 7px 5px 7px;
+	/* border-radius: 50%; */
+}
+.bi-telephone-fill{
+	color: #fff;
+	font-size: 24px;
+	background-color: #0a141f;
+	padding: 3px 7px 5px 7px;
+	/* border-radius: 50%; */
+}
+.bi-person{
+	color: #fff;
+	font-size: 24px;
+	background-color: #0F4C89;
+	padding: 3px 7px 5px 7px;
+	/* border-radius: 50%; */
+}
 
 .bg-gray {
 	background-color: #f6f7fb !important;
@@ -2181,7 +2212,10 @@ li a:hover,
 
 /* Slider Form */
 .slider-form {
-	padding-bottom: 50px;
+	color: #fff;
+    padding: 5px;
+    margin-top: -170px;
+    background: #0a141fb0;
 }
 
 .slider-form .row-content {
